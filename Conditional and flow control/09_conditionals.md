@@ -1,11 +1,4 @@
 
-
-
-[<< Day 8](../08_Day_Dictionaries/08_dictionaries.md) | [Day 10 >>](../10_Day_Loops/10_loops.md)
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [📘 Day 9](#-day-9)
   - [Conditionals](#conditionals)
     - [If Condition](#if-condition)
     - [If Else](#if-else)
