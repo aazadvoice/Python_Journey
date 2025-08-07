@@ -33,4 +33,28 @@ A personal learning repository chronicling everything I’ve explored and learne
 *(Modify or expand based on your actual notebooks.)*
 
 ## Repo Structure
+Python_Journey/
+├── Machine Learning/
+├── MongoDB/
+├── Python/
+├── R/
+└── SQL/
+
+
+Each folder houses topic-specific Jupyter Notebooks that capture learning milestones and coding experiments.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x  
+- Jupyter Notebook or JupyterLab  
+- Essential libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`  
+- Optional (based on notebooks): `pymongo`, `sqlalchemy`, `rpy2` (for R integration)
+
+Install dependencies using:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn pymongo sqlalchemy
+
 
