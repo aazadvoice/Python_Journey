@@ -9,11 +9,6 @@ A personal learning repository chronicling everything I’ve explored and learne
 3. [Repo Structure](#repo-structure)  
 4. [Getting Started](#getting-started)  
 5. [Prerequisites & Setup](#prerequisites--setup)  
-6. [How to Use](#how-to-use)  
-7. [Learning Goals](#learning-goals)  
-8. [Contributing](#contributing)  
-9. [Contact](#contact)
-
 ---
 
 ## Overview
